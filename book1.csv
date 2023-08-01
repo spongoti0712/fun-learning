@@ -1,0 +1,5 @@
+FNAME,LNAME,SSN,Addr,Comments
+Ash,B,1234,"""9425 Rolater Rd, apt 832,frisco,tx,75068""","""This is a text. This means ""nothing""."""
+Jack,Jack,34567,"""9300 Coit Rd Apt 711 Plano Tx 75025""","""this also a comment but means""""""something""""""."""
+sage I,IT,56788,"""85900 gray burns Dr, Frisco, Tx, 75039""","""this is absolute???bonkers???
+ this is another line in the same row"""
